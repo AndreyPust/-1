@@ -1,0 +1,14 @@
+black @ file:///D:/bld/black-recipe_1710784763922/work
+click @ file:///D:/bld/click_1692312014553/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+flake8 @ file:///home/conda/feedstock_root/build_artifacts/flake8_1704483779980/work
+isort @ file:///home/conda/feedstock_root/build_artifacts/isort_1702518492027/work
+mccabe @ file:///home/conda/feedstock_root/build_artifacts/mccabe_1643049622439/work
+mypy-extensions @ file:///home/conda/feedstock_root/build_artifacts/mypy_extensions_1675543315189/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1710075952259/work
+pathspec @ file:///home/conda/feedstock_root/build_artifacts/pathspec_1702249949303/work
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1706713388748/work
+pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1697202867721/work
+pyflakes @ file:///home/conda/feedstock_root/build_artifacts/pyflakes_1704424584912/work
+setuptools==69.2.0
+wheel==0.43.0

@@ -1,0 +1,37 @@
+name: lab_1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - black=24.3.0=py312h2e8e312_0
+  - bzip2=1.0.8=hcfcfb64_5
+  - ca-certificates=2024.2.2=h56e8100_0
+  - click=8.1.7=win_pyh7428d3b_0
+  - colorama=0.4.6=pyhd8ed1ab_0
+  - flake8=7.0.0=pyhd8ed1ab_0
+  - isort=5.13.2=pyhd8ed1ab_0
+  - libexpat=2.6.2=h63175ca_0
+  - libffi=3.4.2=h8ffe710_5
+  - libsqlite=3.45.2=hcfcfb64_0
+  - libzlib=1.2.13=hcfcfb64_5
+  - mccabe=0.7.0=pyhd8ed1ab_0
+  - mypy_extensions=1.0.0=pyha770c72_0
+  - openssl=3.2.1=hcfcfb64_1
+  - packaging=24.0=pyhd8ed1ab_0
+  - pathspec=0.12.1=pyhd8ed1ab_0
+  - pip=24.0=pyhd8ed1ab_0
+  - platformdirs=4.2.0=pyhd8ed1ab_0
+  - pycodestyle=2.11.1=pyhd8ed1ab_0
+  - pyflakes=3.2.0=pyhd8ed1ab_0
+  - python=3.12.2=h2628c8c_0_cpython
+  - python_abi=3.12=4_cp312
+  - setuptools=69.2.0=pyhd8ed1ab_0
+  - tk=8.6.13=h5226925_1
+  - tzdata=2024a=h0c530f3_0
+  - ucrt=10.0.22621.0=h57928b3_0
+  - vc=14.3=hcf57466_18
+  - vc14_runtime=14.38.33130=h82b7239_18
+  - vs2015_runtime=14.38.33130=hcb4865c_18
+  - wheel=0.43.0=pyhd8ed1ab_0
+  - xz=5.2.6=h8d14728_0
+prefix: C:\Users\Andrey\anaconda3\envs\lab_1
